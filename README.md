@@ -1,5 +1,6 @@
 # Letterboxd → Кинопоиск
 
+https://addons.mozilla.org/addon/letterboxd-for-free/
 Расширение для Firefox: добавляет на страницу фильма в [Letterboxd](https://letterboxd.com) кнопку **Watch for free**, которая открывает этот же фильм на Кинопоиске (домен `.film`).
 
 ## Как работает
